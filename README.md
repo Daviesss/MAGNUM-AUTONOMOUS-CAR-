@@ -13,3 +13,5 @@ FRAME:
 
 https://user-images.githubusercontent.com/97457075/161297272-b5073f93-b23f-49ae-a3dd-2ea8ad75e0ae.mp4
 
+Was able to connect the brushed Dc motor to the wheels: It was a challenge getting to find the a dc motor with high torque,But im glad i was able to get one.
+![Frame](https://user-images.githubusercontent.com/97457075/163689029-88f0d368-f838-4e4f-a21e-9f27389e93d9.jpg)
