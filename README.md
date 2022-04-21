@@ -15,3 +15,5 @@ https://user-images.githubusercontent.com/97457075/161297272-b5073f93-b23f-49ae-
 
 Was able to connect the brushed Dc motor to the wheels: It was a challenge getting to find the a dc motor with high torque,But im glad i was able to get one.
 ![Frame](https://user-images.githubusercontent.com/97457075/163689029-88f0d368-f838-4e4f-a21e-9f27389e93d9.jpg)
+Today 21 April 2022 i was able to fabricate the frame of the Robot and also get it covered.
+![Uploading Magnum1.jpg…]()
