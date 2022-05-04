@@ -17,3 +17,8 @@ Was able to connect the brushed Dc motor to the wheels: It was a challenge getti
 ![Frame](https://user-images.githubusercontent.com/97457075/163689029-88f0d368-f838-4e4f-a21e-9f27389e93d9.jpg)
 Today 21 April 2022 i was able to fabricate the frame of the Robot and also get it covered.
 ![Uploading Magnum1.jpg…]()
+
+Teleoperation test of the Mobile Robot.
+
+https://user-images.githubusercontent.com/97457075/166674730-0c64d2d8-58f3-4b73-9bd1-f4c1172c1f23.mp4
+
