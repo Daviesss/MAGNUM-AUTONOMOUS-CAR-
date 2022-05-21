@@ -1,5 +1,5 @@
 # MAGNUM-AUTONOMOUS-CAR-
-A Project of an autonomous car (MAGNUM) which will be operated by ROS(Robot Operating System) SLAM and also run self driving car algorithm (The AI aspect of the autonomous car)..The respiritory will be updated as i proceed and keep building the project .NOTE:The Mechanical,Electrical and Sofware/Programming of the Autonomous Car will all be done by me .
+A Project of an autonomous car (MAGNUM) which will be operated by ROS(Robot Operating System) SLAM (The AI aspect of the autonomous car)..The respiritory will be updated as i proceed and keep building the project .NOTE:The Mechanical,Electrical and Sofware/Programming of the Autonomous Car will all be done by me .
 
 https://user-images.githubusercontent.com/97457075/161296605-31aae4e9-addd-46c6-8f63-fe075187df4e.mp4
 
