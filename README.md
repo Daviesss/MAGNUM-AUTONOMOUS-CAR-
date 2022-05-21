@@ -22,3 +22,7 @@ Teleoperation test of the Mobile Robot.
 
 https://user-images.githubusercontent.com/97457075/166674730-0c64d2d8-58f3-4b73-9bd1-f4c1172c1f23.mp4
 
+
+
+![Maggnum](https://user-images.githubusercontent.com/97457075/169667439-6e589f95-bd16-4301-b118-6bd27e22c83b.jpg)
+
